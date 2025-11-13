@@ -1,0 +1,47 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Aisten",
+  "colors": {
+    "primary": "#8b5cf6",
+    "light": "#c084fc",
+    "dark": "#8b5cf6"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "播客学语言",
+        "pages": [
+          "start",
+          "common-questions",
+          "release-notes"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "支持",
+        "href": "mailto:jossciiweiyi@gmail.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "下载",
+      "href": "https://apps.apple.com/us/app/aisten-podcast-transcription/id6453694910?platform=iphone"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/jossciiweiyi",
+      "telegram": "https://t.me/+PFVCnrD1vChmYmFl",
+      "discord": "https://discord.gg/njXQkGjFY5"
+    }
+  }
+}
