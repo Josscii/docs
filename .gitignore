@@ -1,1 +1,5 @@
 .DS_Store
+.next
+.source
+node_modules
+*.tsbuildinfo
